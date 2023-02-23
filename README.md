@@ -24,5 +24,5 @@ This program requires Python 3.6 or later to be installed on your system.
 pip install Pillow
 pip install zbarlight
 ```
-#### go ahead try it yourself
+#### Go ahead try it yourself
 ![alt text](https://github.com/Rahul-Budhan/QR-READER/blob/main/qrcode.png)
